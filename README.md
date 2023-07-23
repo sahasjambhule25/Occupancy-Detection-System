@@ -1,4 +1,4 @@
-# OMSApp
+# ODSApp
 Welcome to the IIITA !!
 
 User Manual of Occupancy Monitoring System
